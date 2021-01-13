@@ -12,6 +12,7 @@ Personagens animais(fábula); máscaras garantem características dos animais que r
 * Fivela(ainda não decidido) - Modificam a movimentação ou o ataque do jogador. Exemplo: Uma fivela de Gorila faz com que os ataques do jogador arremessem os inimigos.
 * Armadura?
 * Upgrades para a exploração.
+
 ### Exploração:
 A exploração do calabouço ocorre à noite. Durante o dia, o jogador pode interagir com NPCS, colecionar quests e comprar itens. 
 ### Interface:
@@ -34,7 +35,22 @@ A exploração do calabouço ocorre à noite. Durante o dia, o jogador pode interagi
 # Ideias:
 
 ## Ideias da Mecânica do Jogo:
+
 ### Itens:
+#### Armas:
+* Alternar entre armas -> O jogador escolhe duas para entrar na dungeon. (SIM) 
+* Armas descobertas no calabouço só podem ser utilizadas após retornar à vila. (SIM)
+* Espada -> Padrão/Rasteira. (SIM)
+* Machado. -> Pesado/Giro. (SIM)
+* Martelo. -> Pesado/Porradão no chão. (SIM) 
+* Lança. -> Cadência/No chão(salta e finca a lança, dando o dano e fincando no chão para saltar novamente), No ar(golpe com estocada para baixo que quica em inimigos no ar e finca em plataformas). (SIM)
+* Escudo. -> Defesa com menos direção de ataque/Surfa em cima. (SIM)
+* Adaga. -> Curto alcance e pouco dano, com muitos ataques/Pequeno para trás do inimigo. (SIM)
+
+#### Máscaras; Pendantes e "Cinturões":
+
+#### Itens de Progresso:
+* Bumerangue. (SIM)
 
 ### Exploração:
 * Grappling hoook. (NÃO)
@@ -46,14 +62,16 @@ A exploração do calabouço ocorre à noite. Durante o dia, o jogador pode interagi
 * Buraco de coelho. (SIM)
 
 
-### Interface:
+### Interface:          
 
 ### Movimentação:
 * Bunny hopping. (SIM)
 * Pulo na parede. (SIM)
-* "Escorregada do Mega-man" (TALVEZ)
+* "Escorregada do Mega-man" -> Muda de acordo com a arma. (TALVEZ)
 
 
 ### Combate:
 * Chute durante o pulo.
+* Venenos e efeitos parecidos.
+
 
