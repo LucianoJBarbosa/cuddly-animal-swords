@@ -50,7 +50,7 @@ A exploração do calabouço ocorre à noite. Durante o dia, o jogador pode interagi
 #### Máscaras; Pendantes e "Cinturões":
 
 #### Itens de Progresso:
-* Bumerangue. (SIM)
+* Bumerangue -> Não tem cooldown. (SIM)
 
 ### Exploração:
 * Grappling hoook. (NÃO)
@@ -62,7 +62,14 @@ A exploração do calabouço ocorre à noite. Durante o dia, o jogador pode interagi
 * Buraco de coelho. (SIM)
 
 
-### Interface:          
+### Interface:
+* Barra de vida -> Corações. (SIM)
+* Tela fica escura(ou vermelha) quando o HP está baixo, personagem fica arfando. (SIM) 
+* Indicador cooldown das mascaras -> Olhos da máscara brilham quando a habilidade está pronta e há uma "rosquinha" mostrando o cooldown. (SIM)
+* Contador de dinheiro -> Aparece quando coleta e quando ativa o mapa. (SIM)
+* Mapa -> Só aparece ativando o input -> Personagem pode andar enquanto o mapa tá ativado(não tão rápido). (SIM)
+* Armas e itens ficam no personagem (mas podem aparecer no menu do mapa). (SIM)
+* Indicador dos consumíveis -> Ícone no canto (SIM)
 
 ### Movimentação:
 * Bunny hopping. (SIM)
